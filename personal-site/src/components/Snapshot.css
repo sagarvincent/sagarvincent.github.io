@@ -1,0 +1,14 @@
+.sscontainer{
+    width: 20%;
+    height: 100%;
+    position:fixed;
+    margin:10px;
+    color: rgb(8, 196, 253);
+    background-color: rgb(19, 19, 19);
+}
+
+ul::marker {
+    color: red;
+  }
+
+
