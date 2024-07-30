@@ -1,0 +1,25 @@
+.CustomTextBox{
+    font: arial;
+    font-size: large;
+    color: aliceblue;
+    padding-left: 10%;
+    position: absolute;
+    top: 25%;
+    width: 500px;
+
+}
+.DDE{
+    font: arial;
+    font-size: xx-large;
+    color: aqua;
+}
+.b2{
+    color: aliceblue;
+    padding-left: 10%;
+    position: absolute;
+    bottom: 10%;
+}
+span{
+    color: aliceblue;
+    size: xx-small;
+}

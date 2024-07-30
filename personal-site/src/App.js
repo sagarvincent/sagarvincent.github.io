@@ -1,16 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
-import Snapshot from './components/Snapshot.jsx';
+import './components/CustomTextBox.js'
+import CustomTextBox from './components/CustomTextBox.js';
+import HexagonImage from './components/DP.js';
+import MobileNavigation from './components/HamburgerMenu.js';
 
 function App() {
   return (
     <div>
-      <header class = "App-header">
-        <h1>Sagar Vincent</h1>
-      </header>
+      <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+      </head>
       <body class="App-body">
-        <Snapshot/>
+      <h1 class = "App-header">SAGAR VINCENT</h1>
+        <CustomTextBox/>
+        <HexagonImage/>
+        <MobileNavigation/>
       </body>
+      
     </div>
   );
 }

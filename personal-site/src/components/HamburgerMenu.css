@@ -1,0 +1,12 @@
+/*index.css*/
+
+.HamburgerMenu{
+    position: absolute;
+    right: 10%;
+    top: 2.5%;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+}
+
+
