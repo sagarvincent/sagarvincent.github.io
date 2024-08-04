@@ -3,6 +3,7 @@ import './components/CustomTextBox.js'
 import CustomTextBox from './components/CustomTextBox.js';
 import HexagonImage from './components/DP.js';
 import MobileNavigation from './components/HamburgerMenu.js';
+import CircleAnimation from './components/BGEllipse.js';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <CustomTextBox/>
         <HexagonImage/>
         <MobileNavigation/>
+        <CircleAnimation/>
       </body>
       
     </div>

@@ -1,6 +1,7 @@
 .App-header{
   height: 7%;
-  background-color: rgb(0, 0, 0);
+  background-color: #292929;
+  ;
   color: aliceblue;
   margin: 0%;
   position: fixed;
@@ -15,7 +16,8 @@
   width: 100%;
   position: fixed;
   top: 7%;
-  background-color: rgb(0, 0, 0);
+  background-color: #292929;
+;
 }
 
 h1{
