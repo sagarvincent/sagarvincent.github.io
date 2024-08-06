@@ -1,14 +1,20 @@
 .CustomTextBox{
-    font: arial;
-    font-size: large;
+    font: 'Helvetica-Neue';
+    font-size: xxx-large;
     color: aliceblue;
     padding-left: 10%;
     position: absolute;
     top: 25%;
-    width: 500px;
+    width: 700px;
+    z-index: 2;
 
 }
-.DDE{
+.DDE1{
+    font: arial;
+    font-size: xxx-large;
+    color: aqua;
+}
+.DDE2{
     font: arial;
     font-size: xx-large;
     color: aqua;

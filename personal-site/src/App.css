@@ -1,7 +1,6 @@
 .App-header{
   height: 7%;
-  background-color: #292929;
-  ;
+  background-color:transparent;
   color: aliceblue;
   margin: 0%;
   position: fixed;
@@ -9,18 +8,20 @@
   width: 100%;
   padding-left: 10%;
   padding-top:5%;
+  
 }
 .App-body{
-  height: auto;
-  min-height: 93%;
+  height: 100%;
   width: 100%;
   position: fixed;
-  top: 7%;
   background-color: #292929;
+  z-index: 0;
 ;
 }
 
 h1{
   padding: 10px;
+  z-index: 2;
+  font: 'Staatliches';
 }
 

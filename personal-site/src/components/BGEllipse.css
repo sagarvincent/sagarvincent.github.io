@@ -1,0 +1,25 @@
+.BGEllipse1
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1334px; /* Adjust size as needed */
+  height: 1334px; /* Adjust size as needed */
+  z-index: 1; /* Ensure it is over the background but behind other elements */
+  pointer-events: none; /* Ensure it doesn't interfere with other elements */
+  margin-top: -577px;
+  margin-left: -488px;
+}
+
+.BGEllipse2
+{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 1334px; /* Adjust size as needed */
+  height: 1334px; /* Adjust size as needed */
+  z-index: 1; /* Ensure it is over the background but behind other elements */
+  pointer-events: none; /* Ensure it doesn't interfere with other elements */
+  margin-bottom: -349px;
+  margin-right: -1011px;
+}
